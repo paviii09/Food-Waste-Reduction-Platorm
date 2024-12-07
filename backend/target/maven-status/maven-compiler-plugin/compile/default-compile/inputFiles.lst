@@ -1,0 +1,16 @@
+/Users/paviii/FoodWasteReductionPlatform/backend/src/main/java/com/example/fwrp/repositories/TransactionRepository.java
+/Users/paviii/FoodWasteReductionPlatform/backend/src/main/java/com/example/fwrp/services/UserService.java
+/Users/paviii/FoodWasteReductionPlatform/backend/src/main/java/com/example/fwrp/models/User.java
+/Users/paviii/FoodWasteReductionPlatform/backend/src/main/java/com/example/fwrp/Application.java
+/Users/paviii/FoodWasteReductionPlatform/backend/src/main/java/com/example/fwrp/repositories/NotificationRepository.java
+/Users/paviii/FoodWasteReductionPlatform/backend/src/main/java/com/example/fwrp/models/Notification.java
+/Users/paviii/FoodWasteReductionPlatform/backend/src/main/java/com/example/fwrp/models/SurplusItem.java
+/Users/paviii/FoodWasteReductionPlatform/backend/src/main/java/com/example/fwrp/services/FoodItemService.java
+/Users/paviii/FoodWasteReductionPlatform/backend/src/main/java/com/example/fwrp/repositories/FoodItemRepository.java
+/Users/paviii/FoodWasteReductionPlatform/backend/src/main/java/com/example/fwrp/repositories/UserRepository.java
+/Users/paviii/FoodWasteReductionPlatform/backend/src/main/java/com/example/fwrp/repositories/SurplusItemRepository.java
+/Users/paviii/FoodWasteReductionPlatform/backend/src/main/java/com/example/fwrp/models/Transaction.java
+/Users/paviii/FoodWasteReductionPlatform/backend/src/main/java/com/example/fwrp/controllers/FoodItemController.java
+/Users/paviii/FoodWasteReductionPlatform/backend/src/main/java/com/example/fwrp/controllers/UserController.java
+/Users/paviii/FoodWasteReductionPlatform/backend/src/main/java/com/example/fwrp/controllers/HomeController.java
+/Users/paviii/FoodWasteReductionPlatform/backend/src/main/java/com/example/fwrp/models/FoodItem.java
